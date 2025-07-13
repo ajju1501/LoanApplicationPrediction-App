@@ -1,5 +1,5 @@
 
-# 🏦 Loan Approval Prediction App
+# 🏦 SmartLoan-ML_Based_Loan_Approval_Predictor
 
 This is a machine learning web application that predicts whether a loan will be approved based on applicant information. The app is built with **Streamlit** and trained using a **Random Forest Classifier** on a dataset with 11 input features.
 
